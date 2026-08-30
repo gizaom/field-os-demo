@@ -1,0 +1,1 @@
+import{a as n}from"./chunk-chunk-IMDUJDEV.js";function o(){return{push(t){window.location.assign(n(t))},replace(t){window.location.replace(n(t))},back(){window.history.back()}}}function a(){let t=new URLSearchParams(window.location.search);return{get(r){return t.get(r)},toString(){return t.toString()}}}export{o as a,a as b};
